@@ -1,0 +1,456 @@
+{
+  "version": 1,
+  "base_track": "Dear my future",
+  "base_artist": "スリーズブーケ",
+  "createdAt": "2026-02-14T14:40:46.452670Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dear My Future ～未来の自分へ～",
+      "artist": "Prizmmy☆",
+      "has_synced": false,
+      "path": "select/01_Dear_My_Future_~未来の自分へ~_Prizmmy☆.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dear My Future ～未来の自分へ～",
+      "artist": "華園みあ（cv.大久保瑠美）",
+      "has_synced": false,
+      "path": "select/02_Dear_My_Future_~未来の自分へ~_華園みあ(cv.大久保瑠美).txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "dear, my future self",
+      "artist": "lovelytheband",
+      "has_synced": false,
+      "path": "select/03_dear,_my_future_self_lovelytheband.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dear my future (feat. Rui Komada/CV:Saori Hayami)",
+      "artist": "Tatsuya Kato",
+      "has_synced": true,
+      "path": "select/04_Dear_my_future_(feat._Rui_Komada_CV_Saori_Hayami)_Tatsuya_Kato.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dear My Future 〜未来の自分へ〜",
+      "artist": "Prizmmy☆",
+      "has_synced": true,
+      "path": "select/05_Dear_My_Future_〜未来の自分へ〜_Prizmmy☆.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dear My Future ～未来の自分へ～",
+      "artist": "Prizmmy☆ & プリズム☆メイツ",
+      "has_synced": false,
+      "path": "select/06_Dear_My_Future_~未来の自分へ~_Prizmmy☆_&_プリズム☆メイツ.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dear My Future ～未来の自分へ～",
+      "artist": "Prizmmy☆",
+      "has_synced": true,
+      "path": "select/07_Dear_My_Future_~未来の自分へ~_Prizmmy☆.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dear my future",
+      "artist": "スリーズブーケ",
+      "has_synced": true,
+      "path": "select/08_Dear_my_future_スリーズブーケ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Dear My Closest Friend",
+      "artist": "Flyleaf",
+      "has_synced": true,
+      "path": "select/09_Dear_My_Closest_Friend_Flyleaf.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Dear My Lovers",
+      "artist": "MONGOL800",
+      "has_synced": true,
+      "path": "select/10_Dear_My_Lovers_MONGOL800.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Dear My Friend",
+      "artist": "Brent Cash",
+      "has_synced": true,
+      "path": "select/11_Dear_My_Friend_Brent_Cash.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dear My Friend - Ending Theme -",
+      "artist": "Brent Cash",
+      "has_synced": true,
+      "path": "select/12_Dear_My_Friend_-_Ending_Theme_-_Brent_Cash.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Dear My Friend",
+      "artist": "Brent Cash",
+      "has_synced": true,
+      "path": "select/13_Dear_My_Friend_Brent_Cash.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Dear my blue",
+      "artist": "Yerin Baek",
+      "has_synced": true,
+      "path": "select/14_Dear_my_blue_Yerin_Baek.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Dear My Friends",
+      "artist": "Hi-Standard",
+      "has_synced": true,
+      "path": "select/15_Dear_My_Friends_Hi-Standard.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Dear My Boo",
+      "artist": "Mirei Toyama",
+      "has_synced": true,
+      "path": "select/16_Dear_My_Boo_Mirei_Toyama.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Dear My Boo.",
+      "artist": "當山みれい.",
+      "has_synced": true,
+      "path": "select/17_Dear_My_Boo._當山みれい..lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Dear My Friend",
+      "artist": "CLC",
+      "has_synced": true,
+      "path": "select/18_Dear_My_Friend_CLC.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Dear My Friend",
+      "artist": "Every Little Thing",
+      "has_synced": true,
+      "path": "select/19_Dear_My_Friend_Every_Little_Thing.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Dear my friend",
+      "artist": "Agust D feat. Kim Jong Wan of NELL",
+      "has_synced": true,
+      "path": "select/20_Dear_my_friend_Agust_D_feat._Kim_Jong_Wan_of_NELL.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Dear my friend ft. Kim Jong Wan of NELL",
+      "artist": "Agust D",
+      "has_synced": true,
+      "path": "select/21_Dear_my_friend_ft._Kim_Jong_Wan_of_NELL_Agust_D.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Dear My Friends",
+      "artist": "Kana Nishino",
+      "has_synced": true,
+      "path": "select/22_Dear_My_Friends_Kana_Nishino.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Dear my friend (feat. Kim Jong Wan of NELL)",
+      "artist": "Agust D",
+      "has_synced": true,
+      "path": "select/23_Dear_my_friend_(feat._Kim_Jong_Wan_of_NELL)_Agust_D.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Dear my blue",
+      "artist": "백예린",
+      "has_synced": true,
+      "path": "select/24_Dear_my_blue_백예린.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Dear my universe",
+      "artist": "ASTRO",
+      "has_synced": true,
+      "path": "select/25_Dear_my_universe_ASTRO.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Dear Future Historians (London Elektricity Remix)",
+      "artist": "Enter Shikari",
+      "has_synced": true,
+      "path": "select/26_Dear_Future_Historians_(London_Elektricity_Remix)_Enter_Shikari.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Dear Future Historians",
+      "artist": "Enter Shikari",
+      "has_synced": false,
+      "path": "select/27_Dear_Future_Historians_Enter_Shikari.txt"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Dear Future Self",
+      "artist": "Kero Kero Bonito",
+      "has_synced": true,
+      "path": "select/28_Dear_Future_Self_Kero_Kero_Bonito.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Dear Future Husband",
+      "artist": "Meghan Trainor",
+      "has_synced": true,
+      "path": "select/29_Dear_Future_Husband_Meghan_Trainor.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Dear Future Self (Hands Up)",
+      "artist": "Fall Out Boy feat. Wyclef Jean",
+      "has_synced": true,
+      "path": "select/30_Dear_Future_Self_(Hands_Up)_Fall_Out_Boy_feat._Wyclef_Jean.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Dear Future Self (Hands Up)",
+      "artist": "Fall Out Boy/Wyclef Jean",
+      "has_synced": true,
+      "path": "select/31_Dear_Future_Self_(Hands_Up)_Fall_Out_Boy_Wyclef_Jean.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "DEAR FUTURE '18",
+      "artist": "Coaltar Of The Deepers",
+      "has_synced": false,
+      "path": "select/32_DEAR_FUTURE_'18_Coaltar_Of_The_Deepers.txt"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "Dear Future Self (Hands Up) [feat. Wyclef Jean]",
+      "artist": "Fall Out Boy",
+      "has_synced": true,
+      "path": "select/33_Dear_Future_Self_(Hands_Up)_[feat._Wyclef_Jean]_Fall_Out_Boy.lrc"
+    },
+    {
+      "id": "lrclib_34",
+      "source": "lrclib",
+      "title": "Dear Future Self (Hands Up)",
+      "artist": "Fall Out Boy",
+      "has_synced": true,
+      "path": "select/34_Dear_Future_Self_(Hands_Up)_Fall_Out_Boy.lrc"
+    },
+    {
+      "id": "lrclib_35",
+      "source": "lrclib",
+      "title": "Dear Future Self (Hands Up) [feat. Wyclef Jean]",
+      "artist": "Fall Out Boy",
+      "has_synced": true,
+      "path": "select/35_Dear_Future_Self_(Hands_Up)_[feat._Wyclef_Jean]_Fall_Out_Boy.lrc"
+    },
+    {
+      "id": "lrclib_36",
+      "source": "lrclib",
+      "title": "Dear Future Self (Hands Up)",
+      "artist": "Fall Out Boy, Wyclef Jean",
+      "has_synced": true,
+      "path": "select/36_Dear_Future_Self_(Hands_Up)_Fall_Out_Boy,_Wyclef_Jean.lrc"
+    },
+    {
+      "id": "lrclib_37",
+      "source": "lrclib",
+      "title": "Dear Future Husband",
+      "artist": "Meghan Trainor",
+      "has_synced": false,
+      "path": "select/37_Dear_Future_Husband_Meghan_Trainor.txt"
+    },
+    {
+      "id": "lrclib_38",
+      "source": "lrclib",
+      "title": "Dear Future Husband",
+      "artist": "Meghan Trainor",
+      "has_synced": true,
+      "path": "select/38_Dear_Future_Husband_Meghan_Trainor.lrc"
+    },
+    {
+      "id": "lrclib_39",
+      "source": "lrclib",
+      "title": "Dear Future Husband",
+      "artist": "Meghan Trainor",
+      "has_synced": true,
+      "path": "select/39_Dear_Future_Husband_Meghan_Trainor.lrc"
+    },
+    {
+      "id": "lrclib_40",
+      "source": "lrclib",
+      "title": "Dear Future Husband",
+      "artist": "Meghan Trainor",
+      "has_synced": true,
+      "path": "select/40_Dear_Future_Husband_Meghan_Trainor.lrc"
+    },
+    {
+      "id": "lrclib_41",
+      "source": "lrclib",
+      "title": "Dear Future Self (Hands Up) (feat  Wyclef Jean)",
+      "artist": "Fall Out Boy",
+      "has_synced": true,
+      "path": "select/41_Dear_Future_Self_(Hands_Up)_(feat_Wyclef_Jean)_Fall_Out_Boy.lrc"
+    },
+    {
+      "id": "lrclib_42",
+      "source": "lrclib",
+      "title": "A Song for My Future Self",
+      "artist": "Sundara Karma",
+      "has_synced": true,
+      "path": "select/42_A_Song_for_My_Future_Self_Sundara_Karma.lrc"
+    },
+    {
+      "id": "lrclib_43",
+      "source": "lrclib",
+      "title": "Funeral for My Future Children",
+      "artist": "Anna von Hausswolff",
+      "has_synced": true,
+      "path": "select/43_Funeral_for_My_Future_Children_Anna_von_Hausswolff.lrc"
+    },
+    {
+      "id": "lrclib_44",
+      "source": "lrclib",
+      "title": "my future",
+      "artist": "Billie Eilish",
+      "has_synced": true,
+      "path": "select/44_my_future_Billie_Eilish.lrc"
+    },
+    {
+      "id": "lrclib_45",
+      "source": "lrclib",
+      "title": "My Future",
+      "artist": "Shola Ama",
+      "has_synced": false,
+      "path": "select/45_My_Future_Shola_Ama.txt"
+    },
+    {
+      "id": "lrclib_46",
+      "source": "lrclib",
+      "title": "04 my future",
+      "artist": "Billie Eilish",
+      "has_synced": true,
+      "path": "select/46_04_my_future_Billie_Eilish.lrc"
+    },
+    {
+      "id": "lrclib_47",
+      "source": "lrclib",
+      "title": "So This Is My Future",
+      "artist": "ICE NINE KILLS",
+      "has_synced": true,
+      "path": "select/47_So_This_Is_My_Future_ICE_NINE_KILLS.lrc"
+    },
+    {
+      "id": "lrclib_48",
+      "source": "lrclib",
+      "title": "So This Is My Future",
+      "artist": "Ice Nine Kills",
+      "has_synced": true,
+      "path": "select/48_So_This_Is_My_Future_Ice_Nine_Kills.lrc"
+    },
+    {
+      "id": "lrclib_49",
+      "source": "lrclib",
+      "title": "my future",
+      "artist": "Billie Eilish",
+      "has_synced": true,
+      "path": "select/49_my_future_Billie_Eilish.lrc"
+    },
+    {
+      "id": "lrclib_50",
+      "source": "lrclib",
+      "title": "My Future Just Passed",
+      "artist": "Chet Baker",
+      "has_synced": true,
+      "path": "select/50_My_Future_Just_Passed_Chet_Baker.lrc"
+    },
+    {
+      "id": "lrclib_51",
+      "source": "lrclib",
+      "title": "my future",
+      "artist": "Billie Eilish",
+      "has_synced": true,
+      "path": "select/51_my_future_Billie_Eilish.lrc"
+    },
+    {
+      "id": "lrclib_52",
+      "source": "lrclib",
+      "title": "A Highway Got Paved Over My Future, I Drive It Getting to School.",
+      "artist": "The Brave Little Abacus",
+      "has_synced": true,
+      "path": "select/52_A_Highway_Got_Paved_Over_My_Future,_I_Drive_It_Getting_to_School._The_Brave_Little_Abacus.lrc"
+    },
+    {
+      "id": "lrclib_53",
+      "source": "lrclib",
+      "title": "My Future Decided",
+      "artist": "Hillsong UNITED",
+      "has_synced": true,
+      "path": "select/53_My_Future_Decided_Hillsong_UNITED.lrc"
+    },
+    {
+      "id": "lrclib_54",
+      "source": "lrclib",
+      "title": "A Highway Got Paved Over My Future, I Drive It Getting to School",
+      "artist": "Brave Little Abacus",
+      "has_synced": true,
+      "path": "select/54_A_Highway_Got_Paved_Over_My_Future,_I_Drive_It_Getting_to_School_Brave_Little_Abacus.lrc"
+    },
+    {
+      "id": "lrclib_55",
+      "source": "lrclib",
+      "title": "Fear Is Not My Future",
+      "artist": "Brandon Lake feat. Chandler Moore",
+      "has_synced": true,
+      "path": "select/55_Fear_Is_Not_My_Future_Brandon_Lake_feat._Chandler_Moore.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dear my future",
+      "artist": "スリーズブーケ",
+      "has_synced": false,
+      "path": "select/pl_01_Dear_my_future_スリーズブーケ.txt"
+    }
+  ]
+}
